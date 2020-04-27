@@ -1,0 +1,1 @@
+>mvn install:install-file -Dfile=WolframAlpha-1.1.jar -DgroupId=com.wolfram.alpha -DartifactId=wolfram -Dversion=1.1 -Dpackaging=jar
